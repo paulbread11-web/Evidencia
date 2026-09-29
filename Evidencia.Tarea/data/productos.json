@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ryzen 5 5600",
+    "categoria": "Procesadores",
+    "precio": 2499,
+    "marca": "AMD",
+    "descripcion": "Procesador 6 núcleos / 12 hilos Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/ryzen5.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 2499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2800
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Ryzen 7 5700X",
+    "categoria": "Procesadores",
+    "precio": 3299,
+    "marca": "AMD",
+    "descripcion": "Procesador 8 núcleos / 16 hilos Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/ryzen75700x.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 3299
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 3690
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Ryzen 5 7600",
+    "categoria": "Procesadores",
+    "precio": 3899,
+    "marca": "AMD",
+    "descripcion": "Procesador AM5 de nueva generación Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/ryzen 5 7600.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 3899
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 4370
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Ryzen 7 7800X3D",
+    "categoria": "Procesadores",
+    "precio": 7499,
+    "marca": "AMD",
+    "descripcion": "Procesador gaming con 3D V-Cache Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/ryzen77800.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 7499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 8400
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Core i3-12100F",
+    "categoria": "Procesadores",
+    "precio": 1899,
+    "marca": "Intel",
+    "descripcion": "Procesador 4 núcleos / 8 hilos Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/intel core i3.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1899
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2130
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Core i5-12400F",
+    "categoria": "Procesadores",
+    "precio": 2799,
+    "marca": "Intel",
+    "descripcion": "Procesador 6 núcleos / 12 hilos Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/intel core i5.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 2799
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 3130
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Core i5-13400F",
+    "categoria": "Procesadores",
+    "precio": 3599,
+    "marca": "Intel",
+    "descripcion": "Procesador híbrido de alto rendimiento Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/intel core i513.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 3599
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 4030
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Core i7-13700K",
+    "categoria": "Procesadores",
+    "precio": 6499,
+    "marca": "Intel",
+    "descripcion": "Procesador de alto rendimiento Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/intel core i7.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 6499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 7280
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Radeon RX 6600",
+    "categoria": "Tarjetas gráficas",
+    "precio": 3999,
+    "marca": "AMD",
+    "descripcion": "Tarjeta gráfica 8 GB Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/radeon rx 6600.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 3999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 4480
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Radeon RX 7600",
+    "categoria": "Tarjetas gráficas",
+    "precio": 5699,
+    "marca": "AMD",
+    "descripcion": "Tarjeta gráfica 8 GB Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/readeon rx 7600.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 5699
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 6380
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "GeForce RTX 4060",
+    "categoria": "Tarjetas gráficas",
+    "precio": 6499,
+    "marca": "NVIDIA",
+    "descripcion": "Tarjeta gráfica 8 GB Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/geforce rtx 4060.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 6499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 7280
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "GeForce RTX 4060 Ti",
+    "categoria": "Tarjetas gráficas",
+    "precio": 7999,
+    "marca": "NVIDIA",
+    "descripcion": "Tarjeta gráfica 8 GB Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/GeForce RTX 4060TI.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 7999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 8960
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "GeForce RTX 4070",
+    "categoria": "Tarjetas gráficas",
+    "precio": 10999,
+    "marca": "NVIDIA",
+    "descripcion": "Tarjeta gráfica 12 GB Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/GeForce RTX 4070.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 10999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 12320
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "GeForce RTX 4070 SUPER",
+    "categoria": "Tarjetas gráficas",
+    "precio": 12499,
+    "marca": "NVIDIA",
+    "descripcion": "Tarjeta gráfica 12 GB Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/GeForce RTX 4070 SUPER.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 12499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 14000
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "RAM 8GB DDR4 3200",
+    "categoria": "Memoria RAM",
+    "precio": 499,
+    "marca": "Kingston",
+    "descripcion": "Memoria DDR4 para PC Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/RAM 8GB DDR4 3200.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 560
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "RAM 16GB DDR4 3200",
+    "categoria": "Memoria RAM",
+    "precio": 799,
+    "marca": "Kingston",
+    "descripcion": "Memoria DDR4 16 GB Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/RAM 16GB DDR4 3200.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 799
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 890
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "RAM 32GB DDR4 3200",
+    "categoria": "Memoria RAM",
+    "precio": 1399,
+    "marca": "Kingston",
+    "descripcion": "Kit de memoria DDR4 Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/RAM 32GB DDR4 3200.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1399
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1570
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "RAM 16GB DDR5 5600",
+    "categoria": "Memoria RAM",
+    "precio": 1099,
+    "marca": "Corsair",
+    "descripcion": "Memoria DDR5 de alto rendimiento Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/RAM 16GB DDR5 5600.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1099
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1230
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "RAM 32GB DDR5 6000",
+    "categoria": "Memoria RAM",
+    "precio": 1799,
+    "marca": "Corsair",
+    "descripcion": "Kit DDR5 32 GB Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/RAM 32GB DDR5 6000.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1799
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2010
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "SSD NVMe 500GB",
+    "categoria": "Almacenamiento",
+    "precio": 699,
+    "marca": "Kingston",
+    "descripcion": "SSD NVMe PCIe rápido Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/SSD NVMe 500GB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 699
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 780
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "SSD NVMe 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 1199,
+    "marca": "WD",
+    "descripcion": "SSD NVMe de 1 TB Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/SSD NVMe 1TB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1199
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1340
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "SSD NVMe 2TB",
+    "categoria": "Almacenamiento",
+    "precio": 2099,
+    "marca": "Crucial",
+    "descripcion": "SSD NVMe de 2 TB Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/SSD NVMe 2TB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 2099
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2350
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "SSD SATA 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 999,
+    "marca": "Crucial",
+    "descripcion": "SSD SATA para PC Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/SSD SATA 1TB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1120
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "HDD 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 899,
+    "marca": "Seagate",
+    "descripcion": "Disco duro de 1 TB Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/HDD 1TB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 899
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1010
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "HDD 2TB",
+    "categoria": "Almacenamiento",
+    "precio": 1199,
+    "marca": "Seagate",
+    "descripcion": "Disco duro de 2 TB Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/HDD 2TB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1199
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1340
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "HDD 4TB",
+    "categoria": "Almacenamiento",
+    "precio": 2099,
+    "marca": "Western Digital",
+    "descripcion": "Disco duro de 4 TB Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/HDD 4TB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 2099
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2350
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "B550M Gaming",
+    "categoria": "Tarjetas madre",
+    "precio": 1899,
+    "marca": "MSI",
+    "descripcion": "Tarjeta madre AM4 Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/B550M Gaming.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1899
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2130
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "B650 Gaming",
+    "categoria": "Tarjetas madre",
+    "precio": 3299,
+    "marca": "ASUS",
+    "descripcion": "Tarjeta madre AM5 DDR5 Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/B650 Gaming.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 3299
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 3690
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "H610M",
+    "categoria": "Tarjetas madre",
+    "precio": 1499,
+    "marca": "ASRock",
+    "descripcion": "Tarjeta madre Intel económica Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/H610M.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1680
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "B760M",
+    "categoria": "Tarjetas madre",
+    "precio": 2399,
+    "marca": "Gigabyte",
+    "descripcion": "Tarjeta madre Intel B760 Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/B760M.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 2399
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2690
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "Fuente 550W 80+ Bronze",
+    "categoria": "Fuentes de poder",
+    "precio": 1099,
+    "marca": "EVGA",
+    "descripcion": "Fuente certificada 80+ Bronze Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/Fuente 550W 80+ Bronze.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1099
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1230
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "Fuente 650W 80+ Bronze",
+    "categoria": "Fuentes de poder",
+    "precio": 1399,
+    "marca": "Corsair",
+    "descripcion": "Fuente de 650 W Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/Fuente 650W 80+ Bronze.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1399
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1570
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "Fuente 750W 80+ Gold",
+    "categoria": "Fuentes de poder",
+    "precio": 1999,
+    "marca": "Cooler Master",
+    "descripcion": "Fuente modular 750 W Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/Fuente 750W 80+ Gold.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2240
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Gabinete ATX RGB",
+    "categoria": "Gabinetes",
+    "precio": 1499,
+    "marca": "DeepCool",
+    "descripcion": "Gabinete con panel lateral Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/Gabinete ATX RGB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1680
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "Gabinete Micro ATX",
+    "categoria": "Gabinetes",
+    "precio": 1099,
+    "marca": "XZEAL",
+    "descripcion": "Gabinete compacto Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/Gabinete Micro ATX.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1099
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1230
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "Gabinete Gaming Mesh",
+    "categoria": "Gabinetes",
+    "precio": 1699,
+    "marca": "NZXT",
+    "descripcion": "Gabinete con ventilación frontal Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/Gabinete Gaming Mesh.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1699
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1900
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "Disipador Air 120",
+    "categoria": "Refrigeración",
+    "precio": 599,
+    "marca": "DeepCool",
+    "descripcion": "Disipador para CPU Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/Disipador Air 120.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 599
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 670
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "nombre": "Disipador Tower RGB",
+    "categoria": "Refrigeración",
+    "precio": 899,
+    "marca": "Cooler Master",
+    "descripcion": "Disipador tipo torre Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/Disipador Tower RGB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 899
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1010
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "nombre": "AIO 240mm RGB",
+    "categoria": "Refrigeración",
+    "precio": 1699,
+    "marca": "Cooler Master",
+    "descripcion": "Refrigeración líquida 240 mm Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/AIO 240mm RGB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 1699
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1900
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nombre": "Ventilador 120mm RGB",
+    "categoria": "Refrigeración",
+    "precio": 249,
+    "marca": "XZEAL",
+    "descripcion": "Ventilador RGB de 120 mm Equipo pensado para usuarios que buscan rendimiento y buena experiencia.",
+    "imagen": "img/productos/Ventilador 120mm RGB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 249
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 280
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nombre": "Monitor 24 FHD 75Hz",
+    "categoria": "Monitores",
+    "precio": 2499,
+    "marca": "LG",
+    "descripcion": "Monitor Full HD Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/Monitor 24 FHD 75Hz.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 2499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 2800
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "nombre": "Monitor 24 Gaming 144Hz",
+    "categoria": "Monitores",
+    "precio": 3299,
+    "marca": "AOC",
+    "descripcion": "Monitor gaming 144 Hz Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/Monitor 24 Gaming 144Hz.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 3299
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 3690
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "nombre": "Monitor 27 QHD 165Hz",
+    "categoria": "Monitores",
+    "precio": 4999,
+    "marca": "Gigabyte",
+    "descripcion": "Monitor QHD gaming Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/Monitor 27 QHD 165Hz.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 4999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 5600
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "nombre": "Teclado Mecánico RGB",
+    "categoria": "Periféricos",
+    "precio": 899,
+    "marca": "Redragon",
+    "descripcion": "Teclado mecánico RGB Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/Teclado Mecánico RGB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 899
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1010
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "nombre": "Mouse Gaming RGB",
+    "categoria": "Periféricos",
+    "precio": 499,
+    "marca": "Logitech",
+    "descripcion": "Mouse gaming con sensor óptico Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/Mouse Gaming RGB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 499
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 560
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "nombre": "Audífonos Gaming 7.1",
+    "categoria": "Periféricos",
+    "precio": 999,
+    "marca": "HyperX",
+    "descripcion": "Audífonos gaming con micrófono Componente ideal para una configuración moderna.",
+    "imagen": "img/productos/Audífonos Gaming 7.1.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 999
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 1120
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "nombre": "Control USB PC",
+    "categoria": "Periféricos",
+    "precio": 599,
+    "marca": "8BitDo",
+    "descripcion": "Control compatible con PC Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/Control USB PC.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 599
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 670
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "nombre": "Webcam Full HD",
+    "categoria": "Periféricos",
+    "precio": 699,
+    "marca": "Logitech",
+    "descripcion": "Cámara Full HD para videollamadas Una alternativa práctica para complementar tu PC.",
+    "imagen": "img/productos/Webcam Full HD.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 699
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 780
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "nombre": "Adaptador WiFi USB",
+    "categoria": "Redes",
+    "precio": 399,
+    "marca": "TP-Link",
+    "descripcion": "Adaptador WiFi para PC Producto de excelente opción para actualizar tu computadora.",
+    "imagen": "img/productos/Adaptador WiFi USB.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 399
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 450
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "nombre": "Tarjeta WiFi PCIe",
+    "categoria": "Redes",
+    "precio": 799,
+    "marca": "TP-Link",
+    "descripcion": "Adaptador WiFi PCIe Diseñado para ofrecer buen rendimiento en juegos y tareas diarias.",
+    "imagen": "img/productos/Tarjeta WiFi PCIe.jpg",
+    "variantes": [
+      {
+        "id": 1,
+        "nombre": "Estándar",
+        "precio": 799
+      },
+      {
+        "id": 2,
+        "nombre": "Premium",
+        "precio": 890
+      }
+    ]
+  }
+]
